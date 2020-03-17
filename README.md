@@ -1,5 +1,5 @@
 # Indice:
-- variáveis em python: variaveis.ipynb
-- operadores em python: operadores.ipynb
+- [Variáveis em Python](variaveis.ipynb)
+- [Operadores em Python](operadores.ipynb)
 
 https://docs.python.org/3/library/functions.html#func-bytes
